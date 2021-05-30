@@ -1,2 +1,2 @@
 # SciFi_Adventure
-3D Platformer with another Freeky 
+3D Platformer with another Freeky Controls
